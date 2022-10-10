@@ -14,7 +14,7 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
 
-This a way to simplify writing a readme file. Please live recording in the demo folder.
+This a way to simplify writing a readme file. Please see live recording in the demo folder either as download or gif format.
 
 ## Acceptance Criteria
 
