@@ -1,6 +1,6 @@
 # 09 Node.js Challenge: Professional README Generator
 
-![image](https://user-images.githubusercontent.com/34764586/194960656-3aa6cfed-e0d9-4f80-bd27-0a68da3f4e23.png)
+![](https://github.com/AaronVenema/readmeGenerator/blob/main/Develop/demo/Demo%20of%20readme%20generator.gif)
 
 Deployed link:https://aaronvenema.github.io/readmeGenerator/
 
