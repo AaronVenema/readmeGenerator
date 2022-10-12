@@ -1,11 +1,13 @@
 # 09 Node.js Challenge: Professional README Generator
 
-![](https://github.com/AaronVenema/readmeGenerator/blob/main/Develop/demo/Demo%20of%20readme%20generator.gif)
+
 
 Deployed link:https://aaronvenema.github.io/readmeGenerator/
 
 Repository link:https://github.com/AaronVenema/readmeGenerator
 
+
+![](https://github.com/AaronVenema/readmeGenerator/blob/main/Develop/demo/Demo%20of%20readme%20generator.gif)
 ## User Story
 
 ```md
