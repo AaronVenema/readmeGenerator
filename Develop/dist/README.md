@@ -1,6 +1,6 @@
-
-<h1 align="center">readmeGenerator</h1>
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+<h1 align="center">readmeGenerator</h1>
+
 ## Description
   a way to simplify a readme file
 
