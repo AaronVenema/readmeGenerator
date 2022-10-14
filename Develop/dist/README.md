@@ -1,4 +1,4 @@
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 <h1 align="center">readmeGenerator</h1>
 
 ## Description
@@ -21,6 +21,7 @@
 
 ## License
   MIT 
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributing
   Aaron
 ## Tests
