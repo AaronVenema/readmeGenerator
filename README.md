@@ -1,5 +1,5 @@
 # 09 Node.js Challenge: Professional README Generator
-`![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`
+![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)
 
 
 Deployed link:https://aaronvenema.github.io/readmeGenerator/
