@@ -20,7 +20,6 @@
   to generate readme files
 
 ## License
-  MIT 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributing
   Aaron
